@@ -4,12 +4,12 @@ En este repositorio podréis encontrar las diversas actividades realizadas en lo
 
 Entre los cursos realizados encontraremos las siguientes plataformas:
 
+
 - Python
  
   
   ---
-  
 
-
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" >
+<center>
+ <img src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png" >
+ 
