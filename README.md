@@ -17,7 +17,7 @@ Entre los cursos realizados encontraremos las siguientes plataformas:
 ## :hammer: Herramientas utilizadas
 
 
-- Python <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="15" height="15">
+- Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png" width="20" height="20">
  
  ## :soon: Próximas herramientas
 
