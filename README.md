@@ -4,6 +4,10 @@
 
  --- 
 
+<p align="center">
+  <img width="350" height="200" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png">
+</p>
+
 <center>
  <img src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png" width="350" height="200">
  
