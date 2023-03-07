@@ -1,4 +1,4 @@
-# Cursos Udemy
+# Udemy Courses
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 ![GitHub Org's stars](https://img.shields.io/badge/Release%20Date-December-blue)
 
@@ -9,16 +9,18 @@
 </p>
 
  --- 
-En este repositorio podréis encontrar las diversas actividades realizadas en los cursos de la plataforma Udemy. 
+In this repo you can find the activities carried out in the Udemy platform courses. 
 
-Entre los cursos realizados encontraremos las siguientes herramientas:
+Among the courses we will find the following tools:
 
-## :hammer: Herramientas utilizadas
+## :hammer: Tools
 
 
 - Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png" width="20" height="20">
+
+- Apache Spark <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="azure" width="35" height="20"/> </a>
  
- ## :soon: Próximas herramientas
+ ## :soon: Following tools
 
 
 <p align="center">
