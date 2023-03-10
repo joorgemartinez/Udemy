@@ -1,6 +1,6 @@
 # Udemy Courses
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-![GitHub Org's stars](https://img.shields.io/badge/Release%20Date-December-blue)
+
 
  --- 
 
