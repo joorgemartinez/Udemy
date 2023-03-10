@@ -5,7 +5,7 @@
  --- 
 
 <p align="center">
-  <img width="550" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/1200px-Udemy_logo.svg.png">
+  <img width="550" height="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/1200px-Udemy_logo.svg.png">
 </p>
 
  --- 
