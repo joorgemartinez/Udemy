@@ -11,10 +11,10 @@ sc = SparkContext(conf=conf)
 def parseLine(line):
     # Split the line by comma and get the third and fourth values
     fields = line.split(',')
-    age = int(fields[2])
-    numFriends = int(fields[3])
+    customerId = int(fields[0])
+    amount = int(fields[2])
     # Return a tuple of age and number of friends
-    return (age, numFriends)
+    return (customerId, amount)
 
 # Load the CSV file into an RDD
 lines = sc.textFile("Datasets/fakefriends.csv")
