@@ -21,13 +21,11 @@ people.select("name").show()
 print("Filter out anyone over 21:")
 people.filter(people.age < 21).show()
 
-# Group the rows in the "people" DataFrame by their "age" values and count the number of rows in each group,
-# then display the result
+# Group the rows in the "people" DataFrame by their "age" values and count the number of rows in each group, then display the result
 print("Group by age")
 people.groupBy("age").count().show()
 
-# Create a new DataFrame that has the same "name" column as the "people" DataFrame, but with each person's "age" increased by 10,
-# and display it
+# Create a new DataFrame that has the same "name" column as the "people" DataFrame, but with each person's "age" increased by 10, and display it
 print("Make everyone 10 years older:")
 people.select(people.name, people.age + 10).show()
 
