@@ -21,8 +21,7 @@ df.printSchema()
 # select only the columns we're interested in (cust_ID and amount)
 df_filtered = df.select("cust_ID", "amount")
 
-# group the DataFrame by cust_ID and calculate the total amount spent by each customer
-# round the result to 2 decimal places and give it an alias
+# group the DataFrame by cust_ID and calculate the total amount spent by each customer, round the result to 2 decimal places and give it an alias
 # sort the DataFrame by the total amount spent (ascending)
 # show the result, along with the total number of rows in the original DataFrame
 df_filtered.groupBy("cust_ID").agg(func.round(func.sum("amount"),2).alias("Total_by_Customer")).sort("Total_by_Customer").show(df_filtered.count())
