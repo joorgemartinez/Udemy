@@ -28,5 +28,6 @@ people_age_friends.groupBy("age").agg(func.round(func.avg("friends"),2)).sort("a
 people_age_friends.groupBy("age").agg(func.round(func.avg("friends"),2).alias("friends_avg")).sort("age").show()
 
 
-# Stop the SparkSession to free up resources
+# Finish the SparkSession to free up resources. 
 spark.stop()
+
